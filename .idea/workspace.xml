@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94d0c998-7ccb-468b-887d-702b11cd20e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P5RiunxA5uNoFAaoqB6O0UjJTw" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/testng-6.14.2.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.questionAnswer.CheckQuestion">
+    <configuration name="QustionAndAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Idensil_china" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="member.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="member.Tests" />
+      <option name="MAIN_CLASS_NAME" value="member.Tests.QustionAndAnswer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QustionAndAnswer.CheckQuestion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Idensil_china" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="member.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="member.Tests" />
+      <option name="MAIN_CLASS_NAME" value="member.Tests.QustionAndAnswer" />
+      <option name="METHOD_NAME" value="CheckQuestion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questionAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Idensil_china" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="member.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="member.Tests" />
+      <option name="MAIN_CLASS_NAME" value="member.Tests.questionAnswer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questionAnswer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Idensil_china" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="member.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="member.Tests" />
+      <option name="MAIN_CLASS_NAME" value="member.Tests.questionAnswer" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questionAnswer.CheckQuestion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Idensil_china" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="member.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="member.Tests" />
+      <option name="MAIN_CLASS_NAME" value="member.Tests.questionAnswer" />
+      <option name="METHOD_NAME" value="CheckQuestion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.questionAnswer.CheckQuestion" />
+        <item itemvalue="TestNG.questionAnswer" />
+        <item itemvalue="JUnit.questionAnswer" />
+        <item itemvalue="JUnit.QustionAndAnswer.CheckQuestion" />
+        <item itemvalue="JUnit.QustionAndAnswer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d0c998-7ccb-468b-887d-702b11cd20e8" name="Default Changelist" comment="" />
+      <created>1565162101138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565162101138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Idensil_china$QustionAndAnswer_CheckQuestion.ic" NAME="QustionAndAnswer.CheckQuestion Coverage Results" MODIFIED="1565173690480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>member.Tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
